@@ -1,0 +1,8 @@
+{
+  "name": "ftnapp",
+  "app_id": "381c6603",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
